@@ -1,9 +1,10 @@
 ---
 layout:	post
-title: 2020年1月11日 to-do list
-subtitle:	
-date:	2020年1月11日
+title:	2020年1月11日 to-do list
+subtitle: to-do list	
+date:	2020-1-11
 anthor:	Peter
+header-img：
 catalog:	true
 tags:
 	- $A^0$
@@ -15,7 +16,6 @@ tags:
 	- 生物_高一上_小蓝_错题
 	- git 指令
 	- git page 建bloc
-
 ---
 # 2020年1月11日 to-do list
 英语
