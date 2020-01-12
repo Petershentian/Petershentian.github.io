@@ -7,7 +7,7 @@ anthor: Peter
 header-img: img/helloworld.png
 catalog: true
 tags:
-    - $A^0$
+    - $A^2$
     - git
 ---
 
