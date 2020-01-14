@@ -7,8 +7,9 @@ anthor: Peter
 header-img: img/helloworld.png
 catalog: true
 tags:
-    - $A^2$
-    - git
+    -1
+    -$A^0$(1)
+    -git
 ---
 
 # 2020年1月11日 to-do list
